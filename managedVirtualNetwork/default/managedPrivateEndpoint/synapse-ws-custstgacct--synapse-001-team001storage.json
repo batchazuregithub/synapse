@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--synapse-001-team001storage",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/67b16e10-2c63-46ce-a78d-cfbfc72ccd35/resourceGroups/Azure-Resource-001/providers/Microsoft.Storage/storageAccounts/team001storage",
+		"groupId": "dfs"
+	}
+}
